@@ -9,13 +9,13 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently building: **a modular Flutter app with clean architecture**
-- 🌱 I’m learning: **advanced Bloc patterns, local & remote data storage, and UI optimizations**
-- 💬 Ask me about: **Flutter, BLoC, Hive, Supabase, and Clean Architecture**
-- 📦 Data Layer: **Hive (local)**, **Supabase (remote)**
-- 🧠 Architecture Style: **Clean Architecture**, **Cubit for navigation and state**
-- 🧪 Focused on: **Separation of concerns, modular widgets, and state management clarity**
-- ⚡ Fun fact: **I love turning complex app logic into neat, testable modules**
+- 🔭 I’m currently developing **modular Flutter applications** with a strong emphasis on **Clean Architecture** principles.
+- 🌱 I’m deepening my expertise in **advanced BLoC and Cubit state management**, **data persistence** (Hive), and **cloud integration** (Supabase).
+- 💬 I enjoy solving architectural and performance challenges in Flutter and can help with topics like **state management**, **UI architecture**, and **data layer structuring**.
+- 📦 My current stack includes **Hive** for local storage and **Supabase** as a backend-as-a-service solution.
+- 🧠 I design apps using **Clean Architecture**, separating concerns into well-defined layers to ensure maintainability and testability.
+- 🧪 I focus on writing **scalable**, **testable**, and **reusable** code components with clear responsibilities.
+- ⚡ Fun fact: I enjoy translating complex user flows into clean and intuitive Flutter UI with minimal logic leakage.
 
 ---
 
